@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**guido2288/guido2288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Guido, I´m from Argentina and i´m a trainee developer looking to learn more about this wonderful world of coding 
 
-Here are some ideas to get you started:
+## SKILLS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * HTML
+ * CSS 
+ * Javascript
+ * NodeJs
+ * React
+ * Git
+
+## CONTACT
+
+You can you can contact me by **guido2288@gmail.com** :email: or by **Linkedin** https://www.linkedin.com/in/guido-nicolas-garcia/
+
+
